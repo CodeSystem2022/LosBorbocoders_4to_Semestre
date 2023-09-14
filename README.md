@@ -11,13 +11,15 @@
 <h3>
 Repositorio destinado a subir los ejercicios realizados semanalmente en las cátedras de Programación IV y Metodología de sistemas, Con el Profesor ARIEL BETANCUD de la Universidad Tecnológica Nacional Facultad Regional San Rafael de la carrera de Técnico Universitario en Programación. 
   
-Utilizamos tres lenguajes este semestre: Python, JavaScript y Java.
+Utilizamos tres lenguajes este semestre: Python, JavaScript, Node JS y Java.
 
 Python es un lenguaje de programación fácil de aprender y utilizar. Es versátil y se utiliza para crear aplicaciones web, analizar datos, inteligencia artificial y automatizar tareas. Tiene una sintaxis clara y concisa, y cuenta con una amplia biblioteca de funciones. Es compatible con diferentes sistemas operativos y tiene una gran comunidad de desarrolladores.
 
 JavaScript es un lenguaje de programación utilizado en el desarrollo web para crear páginas interactivas y dinámicas. Se ejecuta en el navegador del usuario y también se puede usar en el lado del servidor. Es versátil y ampliamente utilizado en la industria.
 
 Java es un lenguaje de programación orientado a objetos y portátil. Permite ejecutar programas en diferentes sistemas operativos a través de una máquina virtual de Java. Es utilizado en una amplia variedad de aplicaciones y cuenta con una gran biblioteca estándar y comunidad de desarrolladores.
+
+Node.js es un entorno en tiempo de ejecución multiplataforma, de código abierto, para la capa del servidor (pero no limitándose a ello) basado en el lenguaje de programación JavaScript, asíncrono, con E/S de datos en una arquitectura orientada a eventos y basado en el motor V8 de Google. Fue creado con el enfoque de ser útil en la creación de programas de red altamente escalables, como por ejemplo, servidores web.
 
 
 </h3>
@@ -33,3 +35,15 @@ Java es un lenguaje de programación orientado a objetos y portátil. Permite ej
   - `Alessandra Marcano`
   - `Matias Didzius`
   - `Augusto Britos`
+
+| **Semana** | **Scrum Master** 🔎 |
+| ------------- |:-------------:|
+| Semana 01 | *Martin Ojeda*    |
+| Semana 02 | *             *   |
+| Semana 03 | *              *  |
+| Semana 04 | *              *  |
+| Semana 05 | *       *         |
+| Semana 06 | *       *         |
+| Semana 07 | *       *         |
+| Semana 08 | *       *         |
+| Semana 09 | *       *         |
