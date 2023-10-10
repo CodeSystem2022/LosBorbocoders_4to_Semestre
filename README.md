@@ -32,14 +32,13 @@ Node.js es un entorno en tiempo de ejecución multiplataforma, de código abiert
   - `Axel Jocelin Fornerod`
   - `Victor Javier Gomez Allosa`
   - `Kevin Nicolas Lopez Cordoba`
-  - `Alessandra Marcano`
   - `Matias Didzius`
   - `Augusto Britos`
 
 | **Semana** | **Scrum Master** 🔎 |
 | ------------- |:-------------:|
 | Semana 01 | *Martin Ojeda*    |
-| Semana 02 | *             *   |
+| Semana 02 | *Augusto Britos*  |
 | Semana 03 | *              *  |
 | Semana 04 | *              *  |
 | Semana 05 | *       *         |
