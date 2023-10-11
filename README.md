@@ -1,6 +1,7 @@
 # Los Borbocoders :copyright:
 
-![243884073-8bb9f52f-2b75-4abc-8ba5-6fa8173ee153](https://github.com/CodeSystem2022/LosBorbocoders_ProyectoFinal/assets/106932015/e83d8129-c773-4296-bb1b-99eede3b2840){width=200}   ![UTN](/media/utn_icon.png){width=200}
+<img src="/media/borbocoders_icon.jpeg" width=18% height=18%>
+<img src="/media/utn_icon.png" width=15% height=15%>
 
 _`Orgullosamente desde la UTN FRSR al mundo!`_
 
