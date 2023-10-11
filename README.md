@@ -39,7 +39,7 @@ Node.js es un entorno en tiempo de ejecución multiplataforma, de código abiert
 | ------------- |:-------------:|
 | Semana 01 | *Martin Ojeda*    |
 | Semana 02 | *Augusto Britos*  |
-| Semana 03 | *              *  |
+| Semana 03 | *Augusto Britos*  |
 | Semana 04 | *              *  |
 | Semana 05 | *       *         |
 | Semana 06 | *       *         |
