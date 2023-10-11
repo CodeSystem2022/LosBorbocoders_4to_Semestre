@@ -1,15 +1,15 @@
 # Los Borbocoders :copyright:
 
-![243884073-8bb9f52f-2b75-4abc-8ba5-6fa8173ee153](https://github.com/CodeSystem2022/LosBorbocoders_ProyectoFinal/assets/106932015/e83d8129-c773-4296-bb1b-99eede3b2840)
+![243884073-8bb9f52f-2b75-4abc-8ba5-6fa8173ee153](https://github.com/CodeSystem2022/LosBorbocoders_ProyectoFinal/assets/106932015/e83d8129-c773-4296-bb1b-99eede3b2840){width=200}   ![UTN](/media/utn_icon.png){width=200}
+
+_`Orgullosamente desde la UTN FRSR al mundo!`_
 
 ## Cuarto Semestre :computer:
 
-**_¡¡ORGULLOSAMENTE DESDE LA UTN FRSR AL MUNDO!!_**
-
-![KL4vIdvv_400x400](https://github.com/CodeSystem2022/LosBorbocoders_ProyectoFinal/assets/106932015/bee27b9c-a88d-4646-8e32-f8b4d55876e5)
-
-
-Este repositorio está destinado a subir los ejercicios realizados semanalmente en las cátedras de Laboratorio IV y Metodología de Sistemas, con el Profesor [Ariel Betancud](https://github.com/ArielBetancud22) de la Universidad Tecnológica Nacional Facultad Regional San Rafael de la carrera de Técnico Universitario en Programación. 
+- Universidad: [Universidad Tecnológica Nacional Facultad Regional San Rafael](https://www.frsr.utn.edu.ar/).
+- Objetivo: Este repositorio está destinado a subir los ejercicios realizados semanalmente en las cátedras de Laboratorio IV y Metodología de Sistemas.
+- Profesor: [Ariel Betancud](https://github.com/ArielBetancud22).
+- Carrera: Técnicatura Universitaria en Programación. 
   
 **Tecnologías utilizadas:** 
 
@@ -27,16 +27,16 @@ Este repositorio está destinado a subir los ejercicios realizados semanalmente 
 
 
 
-### *INTEGRANTES ACTIVOS EN EL REPOSITORIO:* 
+### *Integrantes:* 
   
-  - `Martin Ojeda`
-  - `Paulina Rodriguez`
-  - `Emilse Zalazar`
-  - `Axel Jocelin Fornerod`
-  - `Victor Javier Gomez Allosa`
-  - `Kevin Nicolas Lopez Cordoba`
-  - `Matias Didzius`
-  - `Augusto Britos`
+  - `Martin Ojeda`[🔗](https://github.com/ojedam13)
+  - `Paulina Rodriguez`[🔗](https://github.com/Houndss)
+  - `Emilse Zalazar`[🔗](https://github.com/KnowMadDev)
+  - `Axel Jocelin Fornerod`[🔗](https://github.com/Axelforn)
+  - `Victor Javier Gomez Allosa`[🔗](https://github.com/javigoall)
+  - `Kevin Nicolas Lopez Cordoba`[🔗](https://github.com/knlc01)
+  - `Matias Didzius`[🔗](https://github.com/Matias-99)
+  - `Augusto Britos`[🔗](https://github.com/agusb95)
 
 | **Semana** | **Scrum Master** 🔎 |
 | ------------- |:-------------:|
