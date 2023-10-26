@@ -45,8 +45,8 @@ _`Orgullosamente desde la UTN FRSR al mundo!`_
 | Semana 02 | *Augusto Britos*  |:white_check_mark:
 | Semana 03 | *Augusto Britos*  |:white_check_mark:
 | Semana 04 | *Axel Fornerod *  |:white_check_mark:
-| Semana 05 | *       *         |
-| Semana 06 | *       *         |
+| Semana 05 | *Emilse Zalazar*  |
+| Semana 06 | *Emilse Zalazar*  |
 | Semana 07 | *       *         |
 | Semana 08 | *       *         |
 | Semana 09 | *       *         |
