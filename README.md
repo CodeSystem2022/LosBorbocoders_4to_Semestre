@@ -47,6 +47,6 @@ _`Orgullosamente desde la UTN FRSR al mundo!`_
 | Semana 04 | *Axel Fornerod *  |:white_check_mark:
 | Semana 05 | *Emilse Zalazar*  |
 | Semana 06 | *Emilse Zalazar*  |
-| Semana 07 | *Victor Javier Gomez Allosa*|
+| Semana 07 | *Kevin Nicolas Lopez Cordoba*|
 | Semana 08 | *Victor Javier Gomez Allosa*|
 | Semana 09 | *       *         |
