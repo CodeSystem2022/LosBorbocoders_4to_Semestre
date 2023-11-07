@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 import lombok.ToString;
 
 @Entity
-//boilerplate - Repetitivo
+//boilerplate - Repetitivo - 
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
