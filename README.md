@@ -1,7 +1,7 @@
 # Los Borbocoders :copyright:
 
-<img src="/media/borbocoders_icon.jpeg" width=18% height=18%>
-<img src="/media/utn_icon.png" width=15% height=15%>
+<img src="/media/borbocoders_icon.jpeg" width=50% height=50%>
+<img src="/media/utn_icon.png" width=50% height=50%>
 
 _`Orgullosamente desde la UTN FRSR al mundo!`_
 
@@ -44,9 +44,9 @@ _`Orgullosamente desde la UTN FRSR al mundo!`_
 | Semana 01 | *Martin Ojeda*    |:white_check_mark:
 | Semana 02 | *Augusto Britos*  |:white_check_mark:
 | Semana 03 | *Augusto Britos*  |:white_check_mark:
-| Semana 04 | *Axel Fornerod*  |:white_check_mark:
+| Semana 04 | *Axel Fornerod*   |:white_check_mark:
 | Semana 05 | *Emilse Zalazar*  |
 | Semana 06 | *Emilse Zalazar*  |
 | Semana 07 | *Kevin Nicolas Lopez Cordoba*|
-| Semana 08 | *Victor Javier Gomez Allosa*|
-| Semana 09 | **                          |
+| Semana 08 | *Victor Javier Gomez Allosa* |
+| Semana 09 | **                           |
