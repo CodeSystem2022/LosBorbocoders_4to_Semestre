@@ -1,7 +1,6 @@
 # Los Borbocoders :copyright:
 
-<img src="/media/borbocoders_icon.jpeg" width=50% height=50%>
-<img src="/media/utn_icon.png" width=50% height=50%>
+<img src="/media/utn_icon.png" width=20% height=20%> <img src="/media/borbocoders_icon.jpeg" width=20% height=20%>
 
 _`Orgullosamente desde la UTN FRSR al mundo!`_
 
