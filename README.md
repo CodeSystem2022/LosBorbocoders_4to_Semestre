@@ -50,3 +50,4 @@ _`Orgullosamente desde la UTN FRSR al mundo!`_
 | Semana 07 | *Kevin Nicolas Lopez Cordoba*|
 | Semana 08 | *Victor Javier Gomez Allosa* |
 | Semana 09 | *Matias Didzius*|
+| Semana 10 | *Matias Didzius*|
